@@ -6,7 +6,7 @@ E-commerce em HTML, CSS e JavaScript. Visual inspirado em lojas de informática 
 
 - `index.html`: página inicial.
 - `catalogo.html`: catálogo com busca, categorias e ordenação.
-- `produto.html?sku=WF-77210`: detalhes, especificações, quantidade e compra do produto.
+- `produto.html`: detalhes, especificações, quantidade e compra do produto.
 - `carrinho.html`: itens, alteração de quantidade, remoção e totais.
 - `checkout.html`: formulário e confirmação de pedido.
 - `favoritos.html`: produtos salvos.
