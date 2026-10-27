@@ -2,8 +2,6 @@
 
 E-commerce em HTML, CSS e JavaScript. Visual inspirado em lojas de informática como a Pichau, com identidade própria, um banner principal e quatro ofertas na página inicial.
 
-## Como abrir
-
 ## Arquivos
 
 - `index.html`: página inicial.
