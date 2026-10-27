@@ -1,12 +1,8 @@
 # Overclock
 
-E-commerce em HTML, CSS e JavaScript puro, desenvolvido a partir da estrutura e dos seis produtos fornecidos. Visual inspirado em lojas de informática como a Pichau, com identidade própria, um banner principal e quatro ofertas na página inicial.
+E-commerce em HTML, CSS e JavaScript. Visual inspirado em lojas de informática como a Pichau, com identidade própria, um banner principal e quatro ofertas na página inicial.
 
 ## Como abrir
-
-Os arquivos prontos estão em `dist/`. Abra `index.html` usando o Live Server do VS Code, ou execute `python3 -m http.server 8000 --directory dist` na raiz do projeto e abra `http://localhost:8000`.
-
-No ZIP para download, os arquivos de `dist/` já estão na raiz: execute `python3 -m http.server 8000` na pasta extraída.
 
 ## Arquivos
 
